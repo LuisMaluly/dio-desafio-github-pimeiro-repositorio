@@ -1,0 +1,4 @@
+Essa arquivo apensa representa uma aula prática para conhecimento
+de como utilizar as ferramentas de Git e GitHub.
+
+Obrigado pela compreensão
